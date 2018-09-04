@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207946731462",
+    "firebase_url": "https://firepre-69b01.firebaseio.com",
+    "project_id": "firepre-69b01",
+    "storage_bucket": "firepre-69b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207946731462:android:b7980b82df08219a",
+        "android_client_info": {
+          "package_name": "com.example.my.firepre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207946731462-lp5f9dbong8lu1ako7efjhrkub8r485c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.my.firepre",
+            "certificate_hash": "113badba869f21cac191ae4a11f844ebf2a9e315"
+          }
+        },
+        {
+          "client_id": "207946731462-66dj785ih19vkcu4o9qpbm1lm7poe6t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGToG-8iAtzwnhKI8UAE_iuQPl-4LZlRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207946731462-66dj785ih19vkcu4o9qpbm1lm7poe6t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
